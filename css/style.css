@@ -16,8 +16,8 @@ use the fonts in other ways in the font hierarchy etc. */
 
 :root {
   --bg-color: red;
-  --link-color: green;
-  --link-hover-color: blue;
+  --link-color: rgb(109, 64, 74);
+  --link-hover-color: rgba(199, 177, 202, 0.932);
   --color-4: hotpink;
   --color-5: rebeccapurple;
 
